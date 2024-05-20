@@ -1,9 +1,6 @@
 # Quinoa_sHSPs
 
-**Este repositorio complementa el trabajo de investigación "titulo" en el cual estamos identificando las Small Heat Shock Proteins de *Chenopodium quinoa* asociadas a condiciones de estrés.**
+**Este repositorio complementa el trabajo de investigación "Integración de datos biológicos de alta dimensionalidad para su aplicación en el uso de Recursos Genéticos Vegetales Nativos" en el cual estamos identificando las proteínas de choque térmico de menor peso molecular (en inglés, *small Heat Shock Proteins*) ó sHSPs en *Chenopodium quinoa* asociadas a condiciones de estrés.**
 
-Hasta el momento, se han identificado sHSPs asociadas a salinidad, sequía y estrés térmico.
-
-
-Por el momento, dado que estos datos no han sido aún publicados, el acceso a los mismos es bajo pedido a scosta at unlu dot edu dot ar.
+Hasta el momento, se han identificado sHSPs en experimentos de estrés térmico, hídrico y salino. Debido ado que estos datos no han sido aún publicados, el acceso a los mismos es bajo pedido a scosta at unlu dot edu dot ar.
 
